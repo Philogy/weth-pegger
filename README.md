@@ -8,5 +8,6 @@ Who doesn't like a good peg?
 4. Allow people to sell WETH for ETH
 
 
-###### Notice: To be clear, don't actually use this. WETH is completely safe. WETH unpegging tweets are memes
+##### Notice: To be clear, don't actually use this. WETH is completely safe. WETH unpegging tweets are memes
+###### (Ik explaining jokes makes it less funny but people can be real dumbasses, best to be safe)
 
