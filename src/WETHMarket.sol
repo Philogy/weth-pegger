@@ -5,6 +5,8 @@ import {Owned} from "solmate/auth/Owned.sol";
 import {WETH as IWETH} from "solmate/tokens/WETH.sol";
 import {SafeTransferLib} from "solmate/utils/SafeTransferLib.sol";
 
+/// @dev WARNING: To be clear this repo is definitely a joke, WETH is a trustless wrapper, don't
+/// give away your WETH for free, it's literally just ETH.
 contract WETHMarket is Owned {
     using SafeTransferLib for IWETH;
 
