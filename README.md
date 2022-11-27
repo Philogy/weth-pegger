@@ -1,5 +1,6 @@
 # WETH Pegger
 Who doesn't like a good peg?
+![The Rock, raised eyebrow](./assets/sus.jpeg)
 
 ## How to Use
 1. Fork Repo
@@ -10,4 +11,4 @@ Who doesn't like a good peg?
 
 ##### Notice: To be clear, don't actually use this. WETH is completely safe. WETH unpegging tweets are memes
 ###### (Ik explaining jokes makes it less funny but people can be real dumbasses, best to be safe)
-
+###### The picture of The Rock (./assets/sus.jpeg) is excluded from the GPL license (it's not mine to license)
